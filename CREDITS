@@ -1,0 +1,12 @@
+Open Mapple is built on the work of:
+
+Apple                       XNU, libpthread, HFS                      APSL 2.0
+HakiOS (oosexgang)          hakios-xnu-kernel, hakios-mt6768           kernel APSL 2.0, the rest MIT
+ios-sweet (dipa-studio)     the kernel patch series                    MIT
+ios-viva (Nicola Leone      the MT6781 port: kernel patches, shim,     MIT
+  Ciardi, dipa-studio)      vivad, tools
+viva-gpu (Nicola Leone      the Mali Metal driver                      MIT
+  Ciardi)
+darwin-xnu-build (blacktop) the kernel build on macOS                  MIT
+BearSSL (Thomas Pornin)     AES, MD5, SHA in the kernel                MIT
+Mesa                        Panfrost, NIR, the Valhall compiler        MIT
