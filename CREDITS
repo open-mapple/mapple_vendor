@@ -11,3 +11,5 @@ darwin-xnu-build (blacktop) the kernel build on macOS                  MIT
 BearSSL (Thomas Pornin)     AES, MD5, SHA in the kernel                MIT
 Mesa                        Panfrost, NIR, the Valhall compiler        MIT
 Terminus (Dimitar Zhekov)   the loader's console font                  OFL 1.1
+zlib (Jean-loup Gailly,     gzip in mapple-install, the installer      zlib
+  Mark Adler) 1.3.1
