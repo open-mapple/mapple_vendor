@@ -13,3 +13,8 @@ Mesa                        Panfrost, NIR, the Valhall compiler        MIT
 Terminus (Dimitar Zhekov)   the loader's console font                  OFL 1.1
 zlib (Jean-loup Gailly,     gzip in mapple-install, the installer      zlib
   Mark Adler) 1.3.1
+Sileo (the Sileo Project)   the package manager in Mapple, 2.5.1       BSD 4-Clause
+
+Sileo 2.5.1 (BSD 4-Clause, Copyright (c) 2021, the Sileo Project), built with Open Mapple's fix for its root file
+moves; this product includes software developed by the Sileo Team. The libraries built into it are under their own
+licences (MIT, Apache 2.0, BSD 2-Clause), whose texts are in Sileo.app/Licenses.
